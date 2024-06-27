@@ -30,4 +30,5 @@
     "telemetry.telemetryLevel": "off",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
+    "java.debug.settings.onBuildFailureProceed": true,
 }
