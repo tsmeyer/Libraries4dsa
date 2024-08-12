@@ -1,5 +1,8 @@
 import java.util.Iterator;
 
+import myLib.Stack;
+import myLib.LinkedList;
+
 class Test
 {   
     // Pushing element on the top of the stack

@@ -3,6 +3,9 @@
 * Last Updated: 06/22/2024
 **/
 
+package myLib;
+import myLib.LinkedList;
+
 import java.util.Iterator;
 
 public class Stack<T> implements Iterable<T>, Iterator<T>{

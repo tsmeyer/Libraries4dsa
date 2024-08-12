@@ -1,11 +1,7 @@
 plugins {
-    id 'application'
+    id 'java'
 }
 sourceSets { main { java { srcDirs = ['src'] } } }
-
-application {
-    mainClass = 'ASCIIShapes'
-}
 
 // optionally include maven dependencies
 // repositories {
