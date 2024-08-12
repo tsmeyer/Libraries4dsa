@@ -5,7 +5,7 @@
 
 import java.util.Iterator;
 
-public class Stack<T> implements Iterable, Iterator{
+public class Stack<T> implements Iterable<T>, Iterator<T>{
     T obj;
     LinkedList<T> s;
     T current = null;
@@ -80,3 +80,6 @@ public class Stack<T> implements Iterable, Iterator{
     }
 
 }
+
+
+//test comment...
